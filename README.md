@@ -40,8 +40,8 @@
   <a href="https://instagram.com/tahirhassan_hafiz" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" />
   </a>
-  <a href="https://www.youtube.com/c/tahirdotdev" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="youtube" width="40" height="40" />
+  <a href="https://threads.net/tahirhassan_hafiz" target="blank">
+    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="threads" width="40" height="40" />
   </a>
 </p>
 
@@ -94,22 +94,6 @@
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahirdotdev-tdd" alt="Streak" />
 </p>
-
-Key Changes:
-
-1. Centered content for a clean and balanced look.
-
-
-2. Shortened the bio to focus on key points like current work and learning.
-
-
-3. Grouped sections logically: Connect with me, Tools & Languages, GitHub Stats.
-
-
-4. Icons and social links are neatly aligned and resized for visual balance.
-
-
-5. Reorganized tools for more modern-looking icon usage.
 
 
 
