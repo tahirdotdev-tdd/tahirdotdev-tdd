@@ -17,7 +17,7 @@
 
 <p align="center">
   <strong>📫 Reach me at:</strong> <a href="mailto:chatwithme2344@gmail.com">chatwithme2344@gmail.com</a>  
-  <strong>🌐 Check out my work:</strong> [hmtahir.webflow.io](https://bit.ly/tahirhassan)
+  <strong>🌐 Check out my work:</strong> https://bit.ly/tahirhassan
 </p>
 
 <p align="center">
