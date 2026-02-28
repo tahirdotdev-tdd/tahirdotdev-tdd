@@ -6,19 +6,14 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tahirdotdev-tdd" alt="Trophy" /></a>
-</p>
-
-<p align="center">
-  <strong>🔭 Currently working on:</strong> C++ & Flutter  
+  <strong>🔭 Currently working on:</strong> Python🐍 & Flutter  
   <br />
-  <strong>🌱 Learning:</strong> C++, Flutter, Dart, Data Structures, Algorithms, OOP (C++ & Dart)
+  <strong>🌱 Learning:</strong> Python, Flutter, Dart, Database Systems, AI and Algorithms, OOP (Python & Dart)
 </p>
 
 <p align="center">
   <strong>📫 Reach me at:</strong> <a href="mailto:chatwithme2344@gmail.com">chatwithme2344@gmail.com</a>  
-  <strong>🌐 Check out my work:</strong> https://bit.ly/tahirhassan
-</p>
+  <strong>🌐 Check out my work:</strong> https://tahirhassan.framer.website</p>
 
 <p align="center">
   <strong>⚡ Fun Fact:</strong> Sometimes I feel like I wasn't made for programming, but I enjoy the journey! 
@@ -28,14 +23,8 @@
 
 ### 🧑‍💻 Connect with Me:
 <p align="center">
-  <a href="https://dev.to/tahirdotdev" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="devto" width="40" height="40" />
-  </a>
   <a href="https://linkedin.com/in/tahirdotdev" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" width="40" height="40" />
-  </a>
-  <a href="https://fb.com/tahirdotdev" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="facebook" width="40" height="40" />
   </a>
   <a href="https://instagram.com/tahirhassan_hafiz" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" />
