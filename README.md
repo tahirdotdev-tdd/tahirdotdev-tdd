@@ -29,9 +29,6 @@
   <a href="https://instagram.com/tahirhassan_hafiz" target="blank">
     <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="instagram" width="40" height="40" />
   </a>
-  <a href="https://threads.net/tahirhassan_hafiz" target="blank">
-    <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/threads.svg" alt="threads" width="40" height="40" />
-  </a>
 </p>
 
 ---
@@ -71,14 +68,6 @@
 ---
 
 ### 📊 My GitHub Stats:
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tahirdotdev-tdd&show_icons=true&locale=en&layout=compact" alt="Top Languages" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tahirdotdev-tdd&show_icons=true&locale=en" alt="Stats" />
-</p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=tahirdotdev-tdd" alt="Streak" />
