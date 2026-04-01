@@ -57,7 +57,7 @@ I'm most comfortable in Flutter and Python, getting serious about networking and
 
 <p align="center">
   <a href="mailto:chatwithme2344@gmail.com">📧 chatwithme2344@gmail.com</a> &nbsp;·&nbsp;
-  <a href="https://tahirhassan.framer.website">🌐 Portfolio</a> &nbsp;·&nbsp;
+  <a href="https://tahirhassan.e">🌐 CV</a> &nbsp;·&nbsp;
   <a href="https://linkedin.com/in/tahirdotdev">LinkedIn</a> &nbsp;·&nbsp;
   <a href="https://instagram.com/tahirhassan_hafiz">Instagram</a>
 </p>
