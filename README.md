@@ -1,54 +1,167 @@
-<h1 align="center">Hafiz Muhammad Tahir Hassan</h1>
+<div align="center">
 
-<p align="center">
-  <em>IT student · Flutter & Python developer · I build things to understand them</em>
-</p>
+```
+████████╗ █████╗ ██╗  ██╗██╗██████╗
+╚══██╔══╝██╔══██╗██║  ██║██║██╔══██╗
+   ██║   ███████║███████║██║██████╔╝
+   ██║   ██╔══██║██╔══██║██║██╔══██╗
+   ██║   ██║  ██║██║  ██║██║██║  ██║
+   ╚═╝   ╚═╝  ╚═╝╚═╝  ╚═╝╚═╝╚═╝  ╚═╝
+        h a s s a n   ·   l a h o r e
+```
 
-<p align="center">
-  <a href="https://tahirhassan.framer.website">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/tahirdotdev">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/tahirhassan_hafiz">Instagram</a> &nbsp;·&nbsp;
-  <a href="mailto:chatwithme2344@gmail.com">Email</a>
-</p>
+**I build things to understand them.**
 
----
+[Portfolio](https://tahirhassan.me) · [LinkedIn](https://linkedin.com/in/tahirdotdev) · [Instagram](https://instagram.com/tahirhassan_hafiz) · [Email](mailto:chatwithme2344@gmail.com)
 
-### About
-
-I'm a BS Information Technology student at the University of Education, Lahore, in my 4th semester. By day I work in merchant support; by night I build.
-
-I like the space between mobile development, networking, and how systems actually work underneath. Flutter and Python are my daily tools, networking and security are where I'm digging deeper, and there's always a side project running.
+</div>
 
 ---
 
-### Currently working on
+### `$ whoami`
 
-🛠 **Flutter + Supabase:** a digital scrapbook app with offline-first sync
-🐍 **Python:** OOP, data structures, and small real-world projects
-🌐 **Networking:** a home lab with WSL2/Kali, Wireshark, Nmap, and VyOS
-🔐 **Security:** ethical hacking fundamentals, learned hands-on
+```console
+tahir@lahore:~$ whoami
+Hafiz Muhammad Tahir Hassan
 
----
+tahir@lahore:~$ cat /etc/role
+student   BS Information Technology, University of Education (4th sem)
+day job   L2 Merchant Support Agent, Abacus BPO
+night job everything below
 
-### Stack
+tahir@lahore:~$ uptime
+up since 2004, load average: 3 side projects, 1 degree, 1 job
 
-<p align="center">
-  <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
-  <a href="https://dart.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="Dart" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://developer.android.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="Android" width="40" height="40"/></a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/></a>
-  <a href="https://supabase.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/supabase/supabase-original.svg" alt="Supabase" width="40" height="40"/></a>
-  <a href="https://firebase.google.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" width="40" height="40"/></a>
-  <a href="https://nodejs.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="Node.js" width="40" height="40"/></a>
-  <a href="https://www.figma.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="40" height="40"/></a>
-  <a href="https://git-scm.com/" target="_blank"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/></a>
-</p>
+tahir@lahore:~$ echo $DAILY_DRIVERS
+Flutter  Python  Kotlin
+
+tahir@lahore:~$ echo $DIGGING_INTO
+networking  security  how systems work underneath
+```
 
 ---
 
-### GitHub stats
+### The short version, as code
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tahirdotdev-tdd&theme=default&hide_border=true" alt="GitHub streak" />
-</p>
+```dart
+class Tahir extends Developer {
+  final city = 'Lahore, Pakistan';
+  final languages = ['Dart', 'Python', 'Kotlin', 'TypeScript', 'C++'];
+  final tools = ['Flutter', 'Jetpack Compose', 'Supabase', 'Firebase', 'Wireshark', 'Nmap'];
+
+  Future<void> build(Idea idea) async {
+    while (!idea.worksYet) {
+      sketch(idea);
+      ship(idea.smallestVersion);
+      breakIt();          // on purpose
+      learnWhyItBroke();  // the actual point
+    }
+  }
+
+  @override
+  String toString() => 'I like the space between apps, networks, and the layers underneath.';
+}
+```
+
+---
+
+### How I work
+
+```mermaid
+flowchart LR
+    A([Idea]) --> B[Sketch the screen]
+    B --> C[Build the smallest version]
+    C --> D{Does it break?}
+    D -- yes --> E[Find out why]
+    E --> C
+    D -- no --> F([Ship it])
+    F --> G[Next idea]
+    G --> A
+```
+
+---
+
+### The stack, mapped
+
+```mermaid
+mindmap
+  root((Tahir))
+    Mobile
+      Flutter
+      Dart
+      Kotlin
+      Jetpack Compose
+    Backend
+      Supabase
+      Firebase
+      Python
+      Node.js
+    Systems
+      Networking
+      Kali and Nmap
+      Wireshark
+      VyOS
+    Craft
+      Figma
+      Git
+      Offline-first sync
+```
+
+---
+
+### Things I'm building
+
+| Project | Built with | In one line |
+| :-- | :-- | :-- |
+| **Digital Scrapbook** | Flutter · Supabase | Memories that still work with no signal (offline-first sync) |
+| **Bijli Gyi** | Kotlin · Jetpack Compose | A survival game about Pakistani load-shedding |
+| **Lost and Found** | Kotlin · Compose · Oracle | Campus lost property, minus the notice board |
+| **CGPAPro** | Kotlin · Compose | A GPA calculator that does the maths and nothing else |
+| **Time Loop Heist** | HTML · Canvas · Web Audio | Plan a heist, then team up with your own ghost |
+
+<details>
+<summary><b>🧪 The home lab</b></summary>
+
+<br>
+
+```text
+WSL2 ── Kali Linux ── Nmap       scanning what I own
+   │
+   ├── Wireshark                 reading packets for fun
+   └── VyOS                      building the router instead of buying one
+```
+
+Ethical hacking, learned hands-on and only on my own machines.
+
+</details>
+
+<details>
+<summary><b>📜 Rules I code by</b></summary>
+
+<br>
+
+1. Ship the smallest version that works, then improve it.
+2. If I can't explain it, I don't understand it yet.
+3. Offline first. Not everyone has good internet.
+4. Read the error message. All of it.
+5. Build the thing to learn the thing.
+
+</details>
+
+<details>
+<summary><b>🥚 You found the easter egg</b></summary>
+
+<br>
+
+If you read this far, we should probably talk.
+[Say hi](mailto:chatwithme2344@gmail.com).
+
+</details>
+
+---
+
+<div align="center">
+
+<sub>`last compiled in Lahore` · `built with caffeine, curiosity and a lot of hot reloads`</sub>
+
+</div>
