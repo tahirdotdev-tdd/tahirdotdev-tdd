@@ -1,19 +1,20 @@
-<h1 align="center">Hafiz Muhammad Tahir Hassan</h1>
+<div align="center">
 
-<p align="center">
-  <em>IT student · Flutter & Python developer · I build things to understand them</em>
-</p>
+<img src="assets/hero.svg" alt="Tahir Hassan, Flutter, Python and Kotlin developer from Lahore" width="100%"/>
 
-<p align="center">
-  <a href="https://tahirhassan.framer.website">Portfolio</a> &nbsp;·&nbsp;
-  <a href="https://linkedin.com/in/tahirdotdev">LinkedIn</a> &nbsp;·&nbsp;
-  <a href="https://instagram.com/tahirhassan_hafiz">Instagram</a> &nbsp;·&nbsp;
-  <a href="mailto:chatwithme2344@gmail.com">Email</a>
-</p>
+**Student developer & builder** · Lahore, Pakistan
+
+IT student · L2 Merchant Support Agent at Abacus BPO · Flutter & Python developer · I build things to understand them
+
+[Portfolio](https://tahirhassan.framer.website) · [LinkedIn](https://linkedin.com/in/tahirdotdev) · [Instagram](https://instagram.com/tahirhassan_hafiz) · [Email](mailto:chatwithme2344@gmail.com)
+
+</div>
 
 ---
 
-### About
+## Identity, with signal
+
+<img src="assets/signal.svg" alt="Identity and live signal" width="100%"/>
 
 I'm a BS Information Technology student at the University of Education, Lahore, in my 4th semester. By day I work in merchant support; by night I build.
 
@@ -21,7 +22,9 @@ I like the space between mobile development, networking, and how systems actuall
 
 ---
 
-### Currently working on
+## What moves the work
+
+<img src="assets/focus.svg" alt="Current focus" width="100%"/>
 
 - 🛠 **Flutter + Supabase:** a digital scrapbook app with offline-first sync
 - 🐍 **Python:** OOP, data structures, and small real-world projects
@@ -30,7 +33,9 @@ I like the space between mobile development, networking, and how systems actuall
 
 ---
 
-### Stack
+## The tools behind the signal
+
+<img src="assets/tools.svg" alt="Technology spectrum" width="100%"/>
 
 <p align="center">
   <a href="https://flutter.dev" target="_blank"><img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40"/></a>
@@ -47,8 +52,12 @@ I like the space between mobile development, networking, and how systems actuall
 
 ---
 
-### GitHub stats
+## Built, shipped, shared
+
+<img src="assets/projects.svg" alt="Project constellation" width="100%"/>
+
+---
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=tahirdotdev-tdd&theme=default&hide_border=true" alt="GitHub streak" />
+  <img src="https://streak-stats.demolab.com/?user=tahirdotdev-tdd&theme=dark&hide_border=true&background=070B15" alt="GitHub streak" />
 </p>
